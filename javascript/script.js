@@ -6,5 +6,5 @@ window.onload = function() {
 // Seleciona o botão e adiciona um evento de clique
 document.getElementById('changeTextButton').addEventListener('click', function() {
     // Altera o texto do parágrafo
-    document.getElementById('description').innerText = "Projetos de sucesso.";
+    document.getElementById('description').innerText = "Projetos de sucesso";
 });
